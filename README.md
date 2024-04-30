@@ -16,8 +16,4 @@ Here are some of the projects I've been working on:
 
 Feel free to explore and provide any feedback or suggestions!
 
-## Contact Me
 
-You can reach out to me via email at [your_email@example.com](mailto:your_email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your_linkedin_profile/).
-
-Looking forward to connecting with you!
